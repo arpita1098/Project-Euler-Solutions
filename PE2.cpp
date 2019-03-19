@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    unsigned long long int dp[4000004];
+    unsigned long long int dp[40];
     dp[0]=1;
     dp[1]=2;
      unsigned long long int i,sum=2;
